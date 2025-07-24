@@ -25,9 +25,9 @@
 
 ---
 
-## 📽️ About The Project
+## 📽️ About This Project
 
-<img src="Netflix%20Clone/assets/images/screenshot.PNG" alt="Netflix Clone Screenshot" width="700"/>
+<img src="Netflix%20Clone/assets/images/screenshot.PNG" alt="Netflix Clone Screenshot" width="100%"/>
 
 This project is a static clone of Netflix’s official landing page.  
 It was created to practice modern HTML and CSS techniques, along with basic JavaScript for interactivity.
