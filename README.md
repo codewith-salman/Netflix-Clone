@@ -2,44 +2,43 @@
 
 <br />
 <div align="center">
-  <h1>🎬 Netflix Clone</h1>
-  <p>A responsive and visually engaging Netflix landing page clone built with HTML, CSS, and JavaScript.</p>
+
+<h2 align="center">🎬 Netflix Clone</h2>
+
+A responsive and visually engaging **Netflix Landing Page Clone**, <br />
+built using **HTML, CSS, and JavaScript** to practice modern UI layouts.
+
 </div>
 
----
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>📑 Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#features">Features</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 ---
 
-## 📽️ About This Project
+## 📖 About The Project
 
-<img src="Netflix%20Clone/assets/images/screenshot.PNG" alt="Netflix Clone Screenshot" width="100%"/>
+<img src="Netflix%20Clone/assets/images/screenshot.PNG" alt="Netflix Clone Screenshot" width="100%" />
 
-This project is a static clone of Netflix’s official landing page.  
-It was created to practice modern HTML and CSS techniques.
+The **Netflix Clone** is a front-end project inspired by Netflix’s official landing page.  
+It was built to practice modern **HTML structure**, **CSS layouts**, and **responsive design techniques**.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+This project focuses on recreating the look and feel of a real-world streaming platform landing page while maintaining clean code and a visually appealing UI.
 
----
-
-## ⚙️ Built With
-
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Perfect for:
+- Landing page UI practice  
+- HTML & CSS skill improvement  
+- Frontend portfolio projects  
+- Responsive design learning  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -47,23 +46,32 @@ It was created to practice modern HTML and CSS techniques.
 
 ## ✨ Features
 
-- Netflix-inspired layout
-- Fully responsive design
-- Clean UI and sections
-- Hover effects and transitions
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+- Netflix-inspired landing page layout  
+- Fully responsive design for all screen sizes  
+- Clean UI sections and typography  
+- Smooth hover effects and transitions  
+- Lightweight and fast-loading structure  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
-## 📞 Contact
+## 🛠️ Built With
 
-**Muhammad Salman Arshad**
+This project is built using:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-salmanarshad/)
-- 📧 [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 📬 Contact
+
+**GitHub:** https://github.com/codewith-salman  
+**LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+**Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
