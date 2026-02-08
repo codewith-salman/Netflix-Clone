@@ -3,14 +3,30 @@
 <br />
 <div align="center">
 
-<h2 align="center">🎬 Netflix Clone</h2>
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/netflix-clone)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/netflix-clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/netflix-clone?style=social)
 
-A responsive and visually engaging **Netflix Landing Page Clone**, <br />
-built using **HTML, CSS, and JavaScript** to practice modern UI layouts.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://netflix-clone-weld-xi.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
+
+<br />
+<br />
+
+<h1 align="center">🎬 Netflix Clone</h1>
+
+A responsive and visually engaging **Netflix landing page clone**  
+built using **HTML, CSS, and JavaScript**.
+
+<a href="https://netflix-clone-weld-xi.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-<br />
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -19,6 +35,7 @@ built using **HTML, CSS, and JavaScript** to practice modern UI layouts.
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#built-with">Built With</a></li>
+    <li><a href="#live-demo">Live Demo</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -29,16 +46,19 @@ built using **HTML, CSS, and JavaScript** to practice modern UI layouts.
 
 <img src="Netflix%20Clone/assets/images/screenshot.PNG" alt="Netflix Clone Screenshot" width="100%" />
 
-The **Netflix Clone** is a front-end project inspired by Netflix’s official landing page.  
-It was built to practice modern **HTML structure**, **CSS layouts**, and **responsive design techniques**.
+This **Netflix Clone** is a front-end project inspired by Netflix’s official landing page.  
+The goal of this project was to practice **modern UI layout**, **responsive design**, and **clean styling** using core web technologies.
 
-This project focuses on recreating the look and feel of a real-world streaming platform landing page while maintaining clean code and a visually appealing UI.
+It focuses on:
+- Pixel-perfect layout structure  
+- Responsive design for all screen sizes  
+- Clean and readable UI sections  
 
-Perfect for:
-- Landing page UI practice  
-- HTML & CSS skill improvement  
-- Frontend portfolio projects  
-- Responsive design learning  
+This project is ideal for:
+- Front-end practice  
+- UI/UX layout learning  
+- Portfolio showcase  
+- Beginner-to-intermediate HTML & CSS projects  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -46,11 +66,11 @@ Perfect for:
 
 ## ✨ Features
 
-- Netflix-inspired landing page layout  
-- Fully responsive design for all screen sizes  
-- Clean UI sections and typography  
-- Smooth hover effects and transitions  
-- Lightweight and fast-loading structure  
+- Netflix-inspired landing page UI  
+- Fully responsive design  
+- Clean and modern layout  
+- Hover effects and smooth transitions  
+- Organized and readable code structure  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,7 +82,7 @@ This project is built using:
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript**
+- **JavaScript (Vanilla)**  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,8 +90,10 @@ This project is built using:
 
 ## 📬 Contact
 
-**GitHub:** https://github.com/codewith-salman  
-**LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
-**Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
