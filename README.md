@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-<br />
 
 <h1 align="center">🎬 Netflix Clone</h1>
 
@@ -61,8 +60,6 @@ This project is ideal for:
 - Portfolio showcase  
 - Beginner-to-intermediate HTML & CSS projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -73,8 +70,6 @@ This project is ideal for:
 - Hover effects and smooth transitions  
 - Organized and readable code structure  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -84,8 +79,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
